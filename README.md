@@ -1,2 +1,2 @@
 # ProyectoLaberintoHunter
-Proyecto POO Victoria De Nóbrega, Adrean Arreaza, Sebastian Perez
+Proyecto POO Victoria De Nóbrega, Adrian Arreaza, Sebastian Perez
